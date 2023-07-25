@@ -9,5 +9,5 @@ saludoElemento.textContent += "";
 const prueba1 = document.getElementById("prueba1");
 
 const prueba2 = "hola";
-
 const nuevaVariable = "variable de Nicolas";
+const Luiggi = "variableLuiggi"
