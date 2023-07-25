@@ -9,3 +9,5 @@ saludoElemento.textContent += '';
 const prueba1 = document.getElementById('prueba1');
 
 const prueba2 = "hola";
+
+const Luiggi = "variableLuiggi"
