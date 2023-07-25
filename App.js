@@ -12,4 +12,4 @@ const prueba2 = "hola";
 
 const prueba3 = 'commit de CamiloP';
 const nuevaVariable = "variable de Nicolas";
-const Luiggi = "variableLuiggi"
+const Luiggi = "variableLuiggi";
