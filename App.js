@@ -8,4 +8,4 @@ saludoElemento.textContent += '';
 
 const prueba1 = document.getElementById('prueba1');
 
-prueba1.textContent = ""; 
+prueba1.textContent = "prueba"; 
